@@ -180,7 +180,9 @@ var_dump($files);
 <div class="alert alert-info">
     <b>Notice:</b> Having trouble to get this working? Don't forget to set the <b>enctype="multipart/form-data"</b> attribute in your <b>&lt;form&gt;</b> tag.
 </div>
-
+<div class="alert alert-info">
+    <b>Notice:</b> Want to see what the possible error codes are? [PHP File Upload Error Codes](https://www.php.net/manual/en/features.file-upload.errors.php)
+</div>
 A callback can also be another function or class method. Have a look at the [call()](base#call) function description to see all possibilities.
 
 
